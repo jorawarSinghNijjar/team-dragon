@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,UAEE,QAAS,CACT,SAAU,CACV,kBAAmB,CACnB,+BACF","file":"main.ace0e643.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nhtml,\r\nbody {\r\n  margin: 0;\r\n  padding: 0;\r\n  background: #f8f7f6;\r\n  font-family: 'Roboto', sans-serif;\r\n}\r\n"]}
