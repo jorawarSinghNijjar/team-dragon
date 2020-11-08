@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/team-dragon/static/css/main.ace0e643.chunk.css",
-    "main.js": "/team-dragon/static/js/main.c5d9d121.chunk.js",
-    "main.js.map": "/team-dragon/static/js/main.c5d9d121.chunk.js.map",
+    "main.js": "/team-dragon/static/js/main.85620e6f.chunk.js",
+    "main.js.map": "/team-dragon/static/js/main.85620e6f.chunk.js.map",
     "runtime-main.js": "/team-dragon/static/js/runtime-main.8d32baac.js",
     "runtime-main.js.map": "/team-dragon/static/js/runtime-main.8d32baac.js.map",
     "static/js/2.42e076a5.chunk.js": "/team-dragon/static/js/2.42e076a5.chunk.js",
     "static/js/2.42e076a5.chunk.js.map": "/team-dragon/static/js/2.42e076a5.chunk.js.map",
     "index.html": "/team-dragon/index.html",
-    "precache-manifest.ce03ddfbb7f956eac1b84033791f1c2b.js": "/team-dragon/precache-manifest.ce03ddfbb7f956eac1b84033791f1c2b.js",
+    "precache-manifest.a7fdcf89ce3ffbd685ed476a2ba4d3e8.js": "/team-dragon/precache-manifest.a7fdcf89ce3ffbd685ed476a2ba4d3e8.js",
     "service-worker.js": "/team-dragon/service-worker.js",
     "static/css/main.ace0e643.chunk.css.map": "/team-dragon/static/css/main.ace0e643.chunk.css.map",
     "static/js/2.42e076a5.chunk.js.LICENSE.txt": "/team-dragon/static/js/2.42e076a5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8d32baac.js",
     "static/js/2.42e076a5.chunk.js",
     "static/css/main.ace0e643.chunk.css",
-    "static/js/main.c5d9d121.chunk.js"
+    "static/js/main.85620e6f.chunk.js"
   ]
 }
